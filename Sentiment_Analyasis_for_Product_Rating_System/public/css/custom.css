@@ -1,0 +1,31 @@
+body {
+    font-family: "Poppins", sans-serif !important;
+}
+
+header {
+    background: radial-gradient(#fffbfb, #ffd6d6);
+}
+
+.title {
+    text-align: center;
+    margin: 0 auto 20px;
+    position: relative;
+    line-height: 60px;
+    color: #555;
+}
+
+.title::after {
+    content: "";
+    background: #0c56d0;
+    width: 80px;
+    height: 5px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.content1 {
+    height: 320px;
+}

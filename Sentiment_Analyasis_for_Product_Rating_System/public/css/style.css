@@ -1,0 +1,729 @@
+    .my-container {
+        border: 1px solid rgb(253, 252, 252);
+        max-width: 2000px;
+    }
+    
+    .my-container2 {
+        border: 1px solid rgb(15, 70, 0);
+        border-width: 3px;
+        max-width: 9000px;
+        height: 432px;
+        /* background-image: url("/img/wbg.jpg"); */
+    }
+    
+    .my-search {
+        border: 1px solid rgb(112, 30, 218);
+        max-width: 2000px;
+        background-color: cornflowerblue;
+        height: 145px;
+    }
+    
+    .my-container-footer {
+        border: 1px solid rgb(23, 163, 245);
+        max-width: 2000px;
+    }
+    
+    .my-container1 {
+        border: 1px solid rgb(255, 255, 255);
+        max-width: 2000px;
+    }
+    
+    .group {
+        height: 500px;
+        /* max-width: 1500px; */
+    }
+    
+    .my-row {
+        border: 3px solid red;
+        height: 69px;
+    }
+    
+    .row-about-sale {
+        border: 3px solid rgb(92, 4, 4);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url("/img/track.jpg");
+    }
+    
+    .my-row1 {
+        border: 3px solid rgb(207, 46, 46);
+        /* height: 100px; */
+    }
+    
+    .my-row2 {
+        border: 3px solid rgb(246, 245, 252);
+        height: 475px;
+        max-width: 9000px;
+        /* width: 200px; */
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* background-image: url("/img/wbg.jpg"); */
+    }
+    
+    .my-row3 {
+        border: 3px solid rgb(241, 238, 238);
+        height: 605px;
+    }
+    
+    .more {
+        border: 3px solid rgb(243, 238, 238);
+        height: 40px;
+    }
+    
+    .my-col {
+        border: 3px dotted blue;
+    }
+    
+    .nav-bar {
+        border: 3px solid green;
+        height: 70px;
+    }
+    
+    .site {
+        border: 3px solid rgb(245, 238, 238);
+        height: 475px;
+        /* background-color: rgb(142, 243, 238); */
+    }
+    
+    .sale {
+        border: 3px solid rgb(80, 8, 76);
+        height: 270px;
+    }
+    
+    .navigation-bar-row {
+        border: 3px solid brown;
+    }
+    
+    .menu-bar {
+        border: 3px solid green;
+        height: 75px;
+    }
+    
+    .search-bar {
+        border: 3px solid rgb(255, 0, 242);
+        height: 250px;
+    }
+    
+    .navigation-bar {
+        border: 3px solid rgb(255, 0, 191);
+        height: 60px;
+    }
+    
+    .about-website {
+        border: 3px solid rgb(0, 4, 255);
+        height: 870px;
+        /* background-color: rgb(0, 109, 128); */
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url("/img/pin.gif");
+    }
+    
+    .flash-sale {
+        border: 3px solid #f0f0f0;
+        height: 1500px;
+    }
+    
+    .trending-items {
+        border: 3px solid rgb(255, 0, 0);
+        height: 180px;
+    }
+    
+    .offer {
+        border: 3px solid rgb(0, 255, 98);
+        height: 170px;
+    }
+    
+    .feedbacks {
+        border: 3px solid rgb(145, 43, 57);
+        height: 185px;
+    }
+    
+    .footer {
+        border: 3px solid rgb(28, 3, 87);
+        height: 300px;
+    }
+    
+    .p {
+        color: rgb(241, 2, 2);
+        font-size: 100px;
+        font-weight: bold;
+    }
+    
+    .about-website-card {
+        background-color: yellow;
+    }
+    
+    .p1 {
+        color: rgb(0, 219, 235);
+        font-size: 20px;
+        font-weight: 500;
+    }
+    
+    .p2 {
+        color: rgb(0, 0, 0);
+        font-size: 12px;
+        font-weight: bold;
+    }
+    
+    .p3 {
+        color: black;
+        font-size: 10px;
+    }
+    
+    .p4 {
+        text-align: center;
+        font-size: 12px;
+    }
+    
+    .p5 {
+        font-size: 12px;
+        color: green;
+        font-weight: bold;
+    }
+    
+    .p6 {
+        font-size: 14px;
+        color: black;
+        font-weight: bold;
+    }
+    
+    .Button {
+        position: absolute;
+        /* right: 100px; */
+        bottom: 70px;
+    }
+    
+    .font {
+        color: black;
+    }
+    
+    .a {
+        color: black;
+    }
+    
+    .shop-more {
+        color: rgb(0, 174, 255);
+    }
+    
+    .shop-more-word {
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-left: 1600px;
+    }
+    
+    .a1 {
+        color: gray;
+        /* font-weight: bold; */
+    }
+    
+    .a3 {
+        color: gray;
+        font-size: 12px;
+    }
+    
+    .checked {
+        color: orange;
+    }
+    
+    .checked1 {
+        color: rgb(126, 122, 115);
+    }
+    
+    .button {
+        background-color: #e7fc2d;
+        border: none;
+        color: rgb(0, 0, 0);
+        padding: 10px 60px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        font-weight: bold;
+        margin: 4px 2px;
+        cursor: pointer;
+        position: absolute;
+        /* right: 100px; */
+        bottom: 40px;
+    }
+    
+    .but2 {
+        position: absolute;
+        /* right: 100px; */
+        bottom: 20px;
+    }
+    
+    .Bsbutton {
+        font-size: 15px;
+        font-weight: bold;
+        /* width: 190px; */
+        /* height: 60px; */
+    }
+    
+    .Bbutto2 {
+        font-size: 20px;
+        font-weight: bold;
+        width: 190px;
+        height: 60px;
+    }
+    
+    .BtnCard {
+        position: absolute;
+        left: 20px;
+        top: 435px;
+        font-size: 15px;
+        font-weight: bold;
+        width: 220px;
+        height: 40px;
+    }
+    
+    .bg {
+        height: 469px;
+        max-width: 9000px;
+        /* width: 100%; */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .font-color {
+        color: blue;
+    }
+    
+    .icon-color {
+        color: brown;
+    }
+    
+    .pcamp {
+        font-size: 75px;
+        font-weight: bold;
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .pcamp-arrival {
+        font-size: 40px;
+        text-align: left;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .pflash {
+        font-weight: bold;
+        text-align: left;
+    }
+    
+    .txt-pcamp {
+        font-size: 75px;
+        font-weight: bold;
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+        color: blue;
+    }
+    
+    .txt-pcamp-arrival {
+        font-size: 40px;
+        text-align: left;
+        color: blue;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .txt-pflash {
+        font-weight: bold;
+        text-align: left;
+        color: blue;
+    }
+    /*----------------------------navigation bar-----------------------------------*/
+    
+    @media (min-width: 992px) {
+        .dropdown-menu .dropdown-toggle:after {
+            border-top: .3em solid transparent;
+            border-right: 0;
+            border-bottom: .3em solid transparent;
+            border-left: .3em solid;
+        }
+        .dropdown-menu .dropdown-menu {
+            margin-left: 0;
+            margin-right: 0;
+        }
+        .dropdown-menu li {
+            position: relative;
+        }
+        .dropdown-menu a {
+            transition: background-color .22s ease, color;
+        }
+        .dropdown-menu a:hover {
+            background-color: rgba(45, 133, 155, 0.836);
+            color: aliceblue;
+        }
+        .nav-item .submenu {
+            display: none;
+            position: absolute;
+            left: 100%;
+            top: -7px;
+        }
+        .nav-item .submenu-left {
+            right: 100%;
+            left: auto;
+        }
+        .dropdown-menu>li:hover {
+            background-color: #f1f1f1
+        }
+        .dropdown-menu>li:hover>.submenu {
+            display: block;
+        }
+        .bg-danger {
+            text-align: center;
+            margin-bottom: 0px;
+        }
+    }
+    /*------------------Footer----------------------*/
+    
+    .footer a {
+        color: rgb(248, 237, 237);
+    }
+    
+    .footer a:hover {
+        color: rgb(29, 5, 75);
+    }
+    /*--------------------------Customer Feedbacks-----------*/
+    
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .testimonials {
+        margin: 50px auto;
+    }
+    
+    .testimonials h1 {
+        text-align: center;
+        font-weight: bold;
+        color: #ff9800;
+        padding-bottom: 10px;
+        text-transform: uppercase;
+    }
+    
+    .testimonials h1::after {
+        content: '';
+        background: #ff9800;
+        display: block;
+        height: 3px;
+        width: 170px;
+        margin: 20px auto 5px;
+    }
+    
+    .testimonials .row {
+        margin-top: 30px;
+    }
+    
+    .col-md-4 {
+        margin: 40px auto;
+    }
+    
+    .profile {
+        padding: 70px 10px 10px;
+        background-color: #efefef;
+    }
+    
+    .profile img {
+        top: -60px;
+        position: absolute;
+        left: calc(50% - 60px);
+        border: 10px solid white;
+    }
+    
+    .user {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+    }
+    
+    .profile h3 {
+        font-size: 20px;
+        margin-top: 15px;
+        color: #ff9800;
+    }
+    
+    .blockquote {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    
+    .blockquote::before {
+        content: '\93';
+        font-size: 50px;
+        position: relative;
+        color: #ff9800;
+        line-height: 20px;
+        bottom: -15px;
+        right: 5px;
+    }
+    
+    .blockquote::after {
+        content: '\94';
+        font-size: 50px;
+        position: relative;
+        color: #ff9800;
+        line-height: 10px;
+        bottom: -15px;
+        left: 5px;
+    }
+    
+    .profile:hover {
+        box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.2);
+        cursor: pointer;
+        transition: 0.5s;
+    }
+    /****************************Collection******************/
+    /* CSS Document */
+    
+    .gallery-block {
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+    
+    .gallery-block .heading {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    
+    .gallery-block .heading h2 {
+        font-weight: bold;
+        font-size: 1.4rem;
+        text-transform: uppercase;
+    }
+    
+    .gallery-block.cards-gallery h6 {
+        font-size: 17px;
+        font-weight: bold;
+    }
+    
+    .gallery-block.cards-gallery .card {
+        transition: 0.4s easy;
+    }
+    
+    .gallery-block.cards-gallery .card img {
+        box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+    }
+    
+    .gallery-block.cards-gallery .card-body {
+        text-align: center;
+    }
+    
+    .gallery-block.cards-gallery .card-body p {
+        font-size: 15px;
+    }
+    
+    .gallery-block.cards-gallery a {
+        color: #212529;
+    }
+    
+    .gallery-block.cards-gallery a:hover {
+        text-decoration: none;
+    }
+    
+    .gallery-block.cards-gallery .card {
+        margin-bottom: 30px;
+        box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+    }
+    
+    a:link {
+        color: green;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    
+    @media (min-width: 576px) {
+        .gallery-block .transform-on-hover:hover {
+            transform: translateY(-10px) scale(1.02);
+            box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.15) !important;
+        }
+        a:link {
+            color: green;
+            background-color: transparent;
+            text-decoration: none;
+        }
+    }
+    /*****************search bar***********************/
+    
+    .form-control-borderless {
+        border: none;
+        background-color: rgb(228, 238, 236);
+    }
+    /*.form-control-borderless:hover,
+    .form-control-borderless:active,
+    .form-control-borderless:focus {
+        border: none;
+        outline: none;
+        box-shadow: none;
+    }*/
+    
+    .card-sm {
+        height: 85px;
+        width: 960px;
+    }
+    /********************Offers**************************************************/
+    
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    h1 {
+        color: rgb(196, 136, 26);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    .collection span {
+        color: yellowgreen;
+        font-size-adjust: 19px;
+        font-weight: 800;
+        padding-left: 5px;
+    }
+    
+    .card {
+        border: none;
+    }
+    
+    .collection input {
+        position: absolute;
+        height: 45px;
+        width: 110px;
+        background-color: yellowgreen;
+        color: white;
+        border-radius: 5px;
+        outline: none;
+        border: none;
+        text-align: center;
+    }
+    
+    .poffer-h5 {
+        margin-top: 64px;
+    }
+    
+    .poffer-crick-set {
+        margin-top: 85px;
+    }
+    
+    .BOTTOM {
+        height: 20px;
+    }
+    
+    .BOTTOM1 {
+        height: 30px;
+    }
+    
+    .BOTTOM2 {
+        height: 15px;
+    }
+    
+    .BOTTOM3 {
+        height: 42px;
+    }
+    
+    .BT4 {
+        height: 50px;
+    }
+    
+    .BT5 {
+        height: 25px;
+    }
+    
+    .BT6 {
+        height: 50px;
+    }
+    
+    .my_table {
+        margin-top: 600px;
+        margin-left: 730px;
+    }
+    
+    .body {
+        background: #f4f4f4;
+    }
+    
+    .banner {
+        background: #a770ef;
+        background: -webkit-linear-gradient(to right, #a770ef, #cf8bf3, #fdb99b);
+        background: linear-gradient(to right, #a770ef, #cf8bf3, #fdb99b);
+    }
+    /*----------------------------*/
+    
+    @import"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css";
+    @import"https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700";
+    body {
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-size: 18px
+    }
+    
+    .backto {
+        background: #039;
+        padding: 12px 0;
+        color: #fff;
+        height: 80px;
+    }
+    
+    .backto a {
+        color: #FFF;
+        text-decoration: none
+    }
+    
+    .cards-row {
+        padding-top: 40px;
+        padding-bottom: 20px;
+        background: #eee
+    }
+    
+    .thumbnail {
+        padding: 0;
+        border-radius: 0;
+        border: none;
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12)
+    }
+    
+    .thumbnail>img {
+        width: 100%;
+        display: block
+    }
+    
+    .thumbnail h3 {
+        font-size: 26px
+    }
+    
+    .thumbnail h3,
+    .card-description {
+        margin: 0;
+        padding: 8px 0;
+        border-bottom: solid 1px #eee;
+        text-align: justify
+    }
+    
+    .thumbnail p {
+        padding-top: 8px;
+        font-size: 20px
+    }
+    
+    .thumbnail .btn {
+        border-radius: 0;
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+        font-size: 20px
+    }
+    
+    .butNetAdd {
+        width: 176px;
+        height: 43px;
+        position: relative;
+        left: 100px;
+        color: blue;
+    }
+    
+    .butNetBuy {
+        width: 176px;
+        height: 43px;
+        position: relative;
+        left: 100px;
+        color: blue;
+    }
+    /**********************************************************************Drop Down Bar*/
